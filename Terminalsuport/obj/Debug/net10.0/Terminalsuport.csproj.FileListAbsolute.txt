@@ -1,0 +1,14 @@
+c:\Users\Felipe\Labdotnet\Terminalsuport\bin\Debug\net10.0\Terminalsuport.exe
+C:\Users\Felipe\Labdotnet\Terminalsuport\bin\Debug\net10.0\Terminalsuport.deps.json
+C:\Users\Felipe\Labdotnet\Terminalsuport\bin\Debug\net10.0\Terminalsuport.runtimeconfig.json
+c:\Users\Felipe\Labdotnet\Terminalsuport\bin\Debug\net10.0\Terminalsuport.dll
+c:\Users\Felipe\Labdotnet\Terminalsuport\bin\Debug\net10.0\Terminalsuport.pdb
+c:\Users\Felipe\Labdotnet\Terminalsuport\obj\Debug\net10.0\Terminalsuport.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Felipe\Labdotnet\Terminalsuport\obj\Debug\net10.0\Terminalsuport.AssemblyInfoInputs.cache
+c:\Users\Felipe\Labdotnet\Terminalsuport\obj\Debug\net10.0\Terminalsuport.AssemblyInfo.cs
+c:\Users\Felipe\Labdotnet\Terminalsuport\obj\Debug\net10.0\Terminalsuport.csproj.CoreCompileInputs.cache
+c:\Users\Felipe\Labdotnet\Terminalsuport\obj\Debug\net10.0\Terminalsuport.dll
+c:\Users\Felipe\Labdotnet\Terminalsuport\obj\Debug\net10.0\refint\Terminalsuport.dll
+c:\Users\Felipe\Labdotnet\Terminalsuport\obj\Debug\net10.0\Terminalsuport.pdb
+C:\Users\Felipe\Labdotnet\Terminalsuport\obj\Debug\net10.0\Terminalsuport.genruntimeconfig.cache
+C:\Users\Felipe\Labdotnet\Terminalsuport\obj\Debug\net10.0\ref\Terminalsuport.dll
